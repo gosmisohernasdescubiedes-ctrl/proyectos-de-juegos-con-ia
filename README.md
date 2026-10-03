@@ -36,7 +36,6 @@ Dependiendo del proyecto, puedo utilizar herramientas como:
 
 * 🎮 Godot
 * 🌐 HTML / CSS / JavaScript
-* 🟦 Roblox Studio / Luau
 * 🐍 Python
 * ☕ Java
 * 🧩 Otras herramientas y tecnologías experimentales
